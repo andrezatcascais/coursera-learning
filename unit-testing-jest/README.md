@@ -1,5 +1,4 @@
-#### Introduction to Unit Testing in Jest - The Fundamentals - https://www.coursera.org/account/accomplishments/verify/JJPQW6JPSSLQ
-
+#### Introduction to Unit Testing in Jest - The Fundamentals
 
 
 #### # Clone the project
